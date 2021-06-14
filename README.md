@@ -16,5 +16,5 @@
 - Kubernetes
 
 📫 How to reach me:
-- [Linkedin](https://www.linkedin.com/in/bal%C3%A1zs-m%C3%A1rton-a4a020117/)
+- [LinkedIn](https://www.linkedin.com/in/bal%C3%A1zs-m%C3%A1rton-a4a020117/)
 - [Facebook](https://www.facebook.com/balazs.marton)
