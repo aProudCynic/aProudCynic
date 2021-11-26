@@ -20,7 +20,7 @@ I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
 - MongoDB
 - Oracle DB
 
-### 📦 contenerization
+### 📦 containerization
 - Docker
 - Kubernetes
 
