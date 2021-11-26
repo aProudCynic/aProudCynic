@@ -12,7 +12,7 @@ I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
 - JavaScript/TypeScript
   - Angular
   - React
-- DB
+- 🖴 DB
   - MongoDB
   - Oracle DB
 contenerization
