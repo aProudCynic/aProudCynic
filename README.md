@@ -1,20 +1,24 @@
 # 👋 Oh hi!
 
-ℹ️ I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
+## ℹ️ Info
+I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
 
-🎓 I have experience with
+## 🎓 Skills/Experience
 - Java
-- Spring
-- Docker
-- Angular
-- MongoDB
-- Oracle DB
-
-🌱 I’m currently learning
-- React
+  - Spring
+  - Java EE
 - Python
-- Kubernetes
+  - Django
+- JavaScript/TypeScript
+  - Angular
+  - React
+- DB
+  - MongoDB
+  - Oracle DB
+contenerization
+  - Docker
+  - Kubernetes
 
-📫 How to reach me:
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/bal%C3%A1zs-m%C3%A1rton-a4a020117/)
 - [Facebook](https://www.facebook.com/balazs.marton)
