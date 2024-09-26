@@ -1,7 +1,7 @@
 # 👋 Oh hi!
 
 ## ℹ️ Info
-I'm Balázs, a full-stack developer/journalist from 🇭🇺 Hungary, currently working as a journalist covering EU affairs and a devops engineer at Hungarian news portal [Telex](https://wwww.telex.hu).
+I'm Balázs, a full-stack developer/journalist from 🇭🇺 Hungary, currently working as a journalist covering EU affairs and a devops engineer at Hungarian news portal [Telex](https://www.telex.hu).
 
 ## 🎓 Skills/Experience
 
