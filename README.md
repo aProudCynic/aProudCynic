@@ -1,7 +1,7 @@
 # 👋 Oh hi!
 
 ## ℹ️ Info
-I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
+I'm Balázs, a full-stack developer/journalist from 🇭🇺 Hungary, currently working as a journalist covering EU affairs and a devops engineer at Hungarian news portal [Telex](wwww.telex.hu).
 
 ## 🎓 Skills/Experience
 
@@ -11,14 +11,18 @@ I'm Balázs, a full-stack developer from 🇭🇺 Hungary.
 
 ### 🐍 Python
 - Django
+- FastAPI
 
 ### 🌐 JavaScript/TypeScript
 - Angular
 - React
+- Vue
 
 ### 💾 DB
 - MongoDB
 - Oracle DB
+- MySQL
+- (bit of DynamoDB)
 
 ### 📦 containerization
 - Docker
